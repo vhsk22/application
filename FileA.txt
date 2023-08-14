@@ -2,3 +2,6 @@ This is fileA
 Making changes to check - Change 1 
 
 NOW I AM MAKING CHANGES ON MY OWN
+
+
+I M EDITING THE FILE AGAIN
