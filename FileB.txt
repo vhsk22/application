@@ -1,2 +1,4 @@
 This is fileB
 let's make a changesgit add 
+
+again making a changes
